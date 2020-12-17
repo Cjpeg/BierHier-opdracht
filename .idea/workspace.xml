@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33060916-6bb7-45e2-8269-b3718d744bcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BierHier-opdracht.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bierhier/Opdracht3.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bierhier/Opdracht3.html" afterDir="false" />
+    <list default="true" id="33060916-6bb7-45e2-8269-b3718d744bcd" name="Default Changelist" comment="Mijn werk">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bierhier/Concert.coachella.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bierhier/Concert.coachella.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bierhier/Concert.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bierhier/Concert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bierhier/Concert.tomorrowland.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bierhier/Concert.tomorrowland.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bierhier/Concert.woodstock.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bierhier/Concert.woodstock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bierhier/Sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bierhier/Sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -52,7 +54,23 @@
       <option name="presentableId" value="Default" />
       <updated>1608042959589</updated>
       <workItem from="1608042961000" duration="312000" />
+      <workItem from="1608201813526" duration="10446000" />
     </task>
+    <task id="LOCAL-00001" summary="sportpagina + mma &#10;nu nog 2 andere">
+      <created>1608210053240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608210053240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mijn werk">
+      <created>1608214387952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608214387952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +86,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="sportpagina + mma &#10;nu nog 2 andere" />
+    <MESSAGE value="Mijn werk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mijn werk" />
   </component>
 </project>
